@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<Trenuri time="13:35">
+	<Tren name="1">
+		<Statii>
+			<Statie id="first" name="Iasi" oraP="05:07" Tintarziere="0" Bintarziere="false" />
+			<Statie id="2" name="Pascani" oraS="06:10" oraP="06:30" Tintarziere="0" Bintarziere="false" />
+			<Statie id="3" name="Bacau" oraS="07:20" oraP="07:22" Tintarziere="0" Bintarziere="false"  />
+			<Statie id="4" name="Buzau" oraS="08:00" oraP="09:28" Tintarziere="0" Bintarziere="false"  />
+			<Statie id="5" name="Ploiesti" oraS="10:33" oraP="10:35" Tintarziere="0" Bintarziere="false" />
+			<Statie id="last" name="Bucuresti" oraS="13:00" Tintarziere="0" Bintarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren name="2">
+		<Statii>
+			<Statie id="first" name="Bucuresti" oraP="07:10" Tintarziere="0" Bintarziere="false" />
+			<Statie id="2" name="Ciulnita" oraS="08:10" oraP="08:12" Tintarziere="0" Bintarziere="false" />
+			<Statie id="3" name="Fetesti" oraS="08:32" oraP="08:34" Tintarziere="0" Bintarziere="false" />
+			<Statie id="4" name="Cernavoda" oraS="08:47" oraP="08:49" Tintarziere="0" Bintarziere="false" />
+			<Statie id="5" name="Medgidia" oraS="09:05" oraP="09:07" Tintarziere="0" Bintarziere="false" />
+			<Statie id="last" name="Constanta" oraS="09:31" Tintarziere="0" Bintarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren name="3">
+		<Statii>
+			<Statie id="first" name="Bucuresti" oraP="07:40" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="2" name="Ploiesti" oraS="08:19" oraP="08:20" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="3" name="Campina" oraS="08:42" oraP="08:43" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="4" name="Sinaia" oraS="09:11" oraP="09:12" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="5" name="Busteni" oraS="9:21" oraP="09:22" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="6" name="Azuga" oraS="09:27" oraP="09:28" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="7" name="Predeal" oraS="09:39" oraP="09:40" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="last" name="Brasov" oraS="10:16" Tintarziere="0" Bintarziere="false"/>
+		</Statii>
+	</Tren>
+	<Tren name="4">
+		<Statii>
+			<Statie id="first" name="Bucuresti" oraP="05:46" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="2" name="Videle" oraS="06:33" oraP="06:34" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="3" name="Rosiori" oraS="07:24" oraP="07:25" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="4" name="Caracal" oraS="08:19" oraP="08:20" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="5" name="Craiova" oraS="09:04" oraP="09:11" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="6" name="Filiasi" oraS="09:37" oraP="09:38" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="7" name="Strehaia" oraS="09:04" oraP="10:09" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="8" name="Balota" oraS="10:54" oraP="10:55" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="9" name="Drobeta Turnu Severin" oraS="11:27" oraP="11:35" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="10" name="Orsova" oraS="12:05" oraP="12:06" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="11" name="Baile Herculane" oraS="12:29" oraP="12:30" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="12" name="Caransebes" oraS="13:54" oraP="13:55" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="13" name="Lugoj" oraS="14:36" oraP="14:37" Tintarziere="0" Bintarziere="false"/>
+			<Statie id="last" name="Timisoara" oraS="15:35" Tintarziere="0" Bintarziere="false"/>
+		</Statii>
+	</Tren>
+	<Tren name="5">
+		<Statii>
+			<Statie id="first" name="Bucuresti" oraP="20:10" Tintarziere="0" Bintarziere="false" />
+			<Statie id="2" name="Videle" oraS="20:58" oraP="20:59" Tintarziere="0" Bintarziere="false" />
+			<Statie id="3" name="Craiova" oraS="23:31" oraP="23:36" Tintarziere="0" Bintarziere="false" />
+			<Statie id="4" name="Caransebes" oraS="04:15" oraP="04:16" Tintarziere="0" Bintarziere="false" />
+			<Statie id="5" name="Timisoara" oraS="06:00" oraP="06:09" Tintarziere="0" Bintarziere="false" />
+			<Statie id="last" name="Arad" oraS="07:05" Tintarziere="0" Bintarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren name="6">
+		<Statii>
+			<Statie id="first" name="Baia Mare" oraP="05:40" Tintarziere="0" Bintarziere="false" />
+			<Statie id="2" name="Gherla" oraP="08:55" oraS="08:57" Tintarziere="0" Bintarziere="false" />
+			<Statie id="3" name="Cluj Napoca" oraP="09:47" oraS="09:57" Tintarziere="0" Bintarziere="false" />
+			<Statie id="4" name="Aiud" oraP="11:38" oraS="11:39" Tintarziere="0" Bintarziere="false" />
+			<Statie id="5" name="Brasov" oraP="16:45" oraS="17:00" Tintarziere="0" Bintarziere="false" />
+			<Statie id="last" name="Bucuresti" oraS="19:41" Tintarziere="0" Bintarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren name="7">
+		<Statii>
+			<Statie id="first" name="Baia Mare" oraP="05:40" Tintarziere="0" Bintarziere="false" />
+			<Statie id="2" name="Gherla" oraP="08:55" oraS="08:57" Tintarziere="0" Bintarziere="false" />
+			<Statie id="3" name="Cluj Napoca" oraP="09:47" oraS="09:57" Tintarziere="0" Bintarziere="false" />
+			<Statie id="4" name="Aiud" oraP="11:38" oraS="11:39" Tintarziere="0" Bintarziere="false" />
+			<Statie id="5" name="Brasov" oraP="16:45" oraS="17:00" Tintarziere="0" Bintarziere="false" />
+			<Statie id="last" name="Bucuresti" oraS="19:41" Tintarziere="0" Bintarziere="false" />
+		</Statii>
+	</Tren>
+</Trenuri>
